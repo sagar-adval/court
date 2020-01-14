@@ -1,0 +1,111 @@
+.body {
+  background-image: url("../../assets/images/img1.png");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+
+
+button {
+  text-decoration: none;
+  border: none;
+}
+.hero_image{
+  background-image:linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.2)), url("src/assets/images/img4.jpg");
+  height: 90vh;
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+.hero_wrapper
+{
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+
+}
+.hero_wrapper h1 {
+  font-size: 4rem;
+  text-align: center;
+}
+.form_code{
+  text-align: center;
+}
+.form_code .post_code{
+  display: block;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 2rem;
+  padding: .6rem;
+  border: none;
+  outline: none;
+}
+.form_code button{
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  background-color:	#adad85;
+  color: white;
+  padding: .6rem;
+  margin-top: 1rem;
+  border: none;
+  border-radius: 1rem;
+}
+
+table{
+  color: white;
+  border-collapse: collapse;
+  border: 1px solid white;
+}
+
+.long-copy{
+  line-height: 145%;
+  text-align: center;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-bottom:30px;
+  color: black;
+}
+.column{
+  float: left;
+  width: 28%;
+  padding: 5px;
+  color: green;
+
+}
+h2{
+  font-size:25px;
+  word-spacing:2px;
+  text-align:left;
+  margin-bottom: 30px;
+  letter-spacing: 1px;
+  color: black;
+}
+p{
+  text-align: center;
+  color: black;
+  letter-spacing: 1px;
+  color: white;
+}
+.dev-team {
+  height: fit-content;
+  text-align: center;
+  align-content: center;
+  margin: 80px;
+  padding: 40px;
+}
+.form {
+  margin-top: 100px;
+  padding: 20px;
+  border: 1px solid black;
+  background-color: azure;
+  opacity: 0.95;
+}

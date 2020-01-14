@@ -1,0 +1,28 @@
+.long-copy{
+  line-height: 145%;
+  text-align: center;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-bottom:30px;
+  color: black;
+}
+.column{
+  float: left;
+  width: 28%;
+  padding: 5px;
+  color: green;
+
+}
+h2{
+  font-size:25px;
+  word-spacing:2px;
+  text-align:left;
+  margin-bottom: 30px;
+  letter-spacing: 1px;
+  color: black;
+}
+p{
+  text-align: left;
+  color: black;
+  letter-spacing: 1px;
+}

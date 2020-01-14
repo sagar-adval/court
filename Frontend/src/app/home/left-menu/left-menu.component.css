@@ -1,0 +1,23 @@
+.left-box {
+  float: left;
+  /*background-color: #c48a80;*/
+  margin-top: 60px;
+  max-width: 400px;
+  max-height: 400px;
+}
+li {
+  text-decoration: none;
+  margin: 30px;
+  cursor: pointer;
+  padding: 10px
+}
+ul {
+  list-style-type: none;
+  font-family: 'Roboto', SansSerif;
+  font-size: 22px;
+  font-weight: bolder;
+}
+h1 {
+  text-align: center;
+  text-decoration: none;
+}
